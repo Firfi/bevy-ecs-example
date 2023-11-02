@@ -17,3 +17,16 @@ https://unity.com/solutions/real-time-multiplayer/network-transport-layer - wher
 https://ldtk.io - just a nice “CMS” for 2d tile-based game levels (from Dead Cells https://store.steampowered.com/app/588650/Dead_Cells/ creator, written in Zig)
 
 https://www.youtube.com/watch?v=aKLntZcp27M - ECS in Rust by Catherine West from Chucklefish games (Starbound https://store.steampowered.com/app/211820/Starbound/ )
+
+https://en.wikipedia.org/wiki/Data-oriented_design
+
+
+
+https://graphgen-ts.apps.loskutoff.com/
+
+https://github.com/Firfi/chatroom_exe_fun
+
+https://urltown.apps.loskutoff.com/
+
+https://github.com/Firfi/nxblog
+
